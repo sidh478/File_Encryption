@@ -1,0 +1,24 @@
+Wow Labz has been acing the software development game since 2011 and is sure to be your new favourite full-stack development agency, focused on providing Blockchain and AI development services.
+
+With a mission to help you build world-class & exceptional Web3 products, our award-winning team comes with an ecstatic clientele.
+
+Our Web3 Expertise:
+DeFi - DEX, swaps, staking, AMMs, Reflection, AutoLP and beyond
+NFT - collections, marketplaces and beyond
+Metaverse - with built-in Social Token, DeFi and NFTs
+Wallets - custodial, non-custodial, cross-chain
+dApps - you name it, we can make it
+Zk Rollups - we are actively developing our own rollup-as-a-service for EVM chains
+Blockchains - Ethereum, Polkadot, BSC, Polygon, Stacks, Stellar and more
+
+Why Wow Labz?
+- Products built by us are used by over 30M users worldwide and have won several awards
+- We have built a decentralized storage protocol and a bunch of DApps on Ethereum, Stellar, and EOS
+- We have been core contributors to two more protocols one of which, at its peak, touched 400M USD
+- Our team has won multiple hackathons including Google Service Jam, Startup Weekend, Warpspeed and more
+- We have built multiple award-winning apps like Mobile Brand Congress, Appstar and 6 more
+- We have built some of India’s largest communities for startups, design, and products, including Headstart - a 100K+ community
+- We have built a 10k+ member community called Polkadot India
+- We are recipients of multiple grants from well-known foundations/ protocol treasuries
+- We have worked on cross-chain bridges, on-chain NFTs, ZKPs, GameFi, and DeFi
+- One of our patches helped improve the security of Olympus DAO
